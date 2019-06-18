@@ -1,6 +1,7 @@
 class ContentfulUser < ActiveRecord::Base
   # Gets all entries and it's links for defined Content Type in Configuration
   def render
+  #  binding.pry
     client.entries(include: 2, content_type: content_type)
   end
 
