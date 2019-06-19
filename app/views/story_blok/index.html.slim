@@ -2,3 +2,14 @@
   .col-md-8
     H1
       = "StoryBlok Ruby client"
+    ul
+      -@client.stories['data']['stories'].each do |post|
+        binding.pry
+        li
+          .col-md-4
+            H3
+              =post['name']
+          .col-md-8
+              p
+                =post['content']['content']
+              br
