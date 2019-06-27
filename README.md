@@ -1,13 +1,13 @@
 # Headless CMS  Demo
 
-Simple Rails connected with differnt Headless CMS  Applications.
+Simple Rails app connected with differnt Headless CMS  Applications.
 The app has connection with different Api to view, add or update contents.
 
-## Headless Cms
-1- Contentful
-2- StoryBlock
+## App has connection to the following Headless Cms
+- [Contentful](https://www.contentful.com)
+- [StoryBlock](https://www.storyblok.com/)
 
-##Visit online
+## Visit online
  comming soon
 
-##Contribution
+## Contribution
