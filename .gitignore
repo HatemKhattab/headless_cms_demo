@@ -18,3 +18,4 @@
 
 .byebug_*
 .env
+.env.*
