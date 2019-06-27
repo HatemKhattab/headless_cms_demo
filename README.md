@@ -7,7 +7,7 @@ The app has connection with different Api to view, add or update contents.
 1- Contentful
 2- StoryBlock
 
-##Visit online
+## Visit online
  comming soon
 
-##Contribution
+## Contribution
